@@ -2,23 +2,12 @@
 <table>
   <tr>
     <td width="35%" align="center">
-      <img src="./assets/cat-dev.png" alt="Fariba coding" width="220" />
+      <img src="./assets/wallpaper.jpg" alt="Fariba coding" width="220" />
     </td>
     <td align="left">
       # I'm Fariba Shahsavan  
       **Front-End Developer**
       Building clean, responsive and user-friendly interfaces for the web.  
-      <p>
-        <!-- Email -->
-        <a href="mailto:f.shahsavanpour@gmail.com" title="Email: f.shahsavanpour@gmail.com">
-          <img src="https://skillicons.dev/icons?i=gmail" width="32" />
-        </a>
-        &nbsp;
-        <!-- LinkedIn -->
-        <a href="https://www.linkedin.com/in/fariba-shahsavanpour-691142244/" target="_blank" title="LinkedIn Profile">
-          <img src="https://skillicons.dev/icons?i=linkedin" width="32" />
-        </a>
-      </p>
       <!-- Badges -->
       <p>
         <a href="https://github.com/faribacss">
