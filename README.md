@@ -34,13 +34,16 @@
   </tr>
 </table>
 
----
+
 
 ---
+
+
+
 
 <div align="left">
 
-  <img src="assets/fire2.png" alt="Fariba coding" width="220" align="right" />
+  <img src="assets/fire2.png" alt="Fariba coding" width="200" align="right" />
 
   ## 🧾 About Me
 
@@ -56,6 +59,10 @@
 </div>
 
 
+---
+
+
+
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -68,7 +75,11 @@
   </a>
 </p>
 
+
+
 ---
+
+
 
 ## 💻 Tech Stack
 
@@ -85,7 +96,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faribacss&theme=github-dark-blue" height="150" />
 </p>
 
+
+
 ---
+
+
 
 ## 📌 Selected Projects
 
