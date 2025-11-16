@@ -41,11 +41,18 @@
 
 
 
-<div align="left">
+<div style="
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  ">
 
   <img src="assets/fire2.png" alt="Fariba coding" width="200" align="right" />
 
-  ## 🧾 About Me
+  **🧾 About Me**
 
   I'm a front-end developer focused on Building clean, responsive and user-friendly interfaces for the web.
 
