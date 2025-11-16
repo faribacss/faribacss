@@ -1,10 +1,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="assets/wallpaper.jpg" alt="Fariba coding" width="460" />
+      <img src="assets/wallpaper.jpg" alt="Fariba coding" width="760" />
     </td>
     <td align="left">
-      <h1>Hi, I'm Fariba Shahsavan 👋</h1>
+      <h2>Hi, I'm Fariba Shahsavan 👋</h2>
       <h3>Front-End Developer</h3>
       <img
         src="https://readme-typing-svg.demolab.com?size=20&duration=2500&pause=800&color=F7C4FF&center=false&vCenter=true&width=420&lines=Clean+UI+%7C+Responsive+Design;Front-End+Developer+based+on+HTML+%26+CSS+%26+JS;Learning+React+and+Next.js"
@@ -104,10 +104,10 @@
 
 ## 📌 Selected Projects
 
-- **Login & Sign-in Page** – React + MUI UI  
+- **Login & Sign-in Page** – React + MUI  
   https://github.com/faribacss/login-and-sign-in-page  
 
-- **Restaurantly Bootstrap Template** – Responsive Bootstrap template  
+- **Restaurantly Bootstrap Template** – Responsive Bootstrap  
   https://github.com/faribacss/Restaurantly-Bootstrap-Template-Demo  
 
 - **Nice School App** – School-themed front-end project  
