@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td width="60%" align="center">
+    <td align="center">
       <img src="assets/wallpaper.jpg" alt="Fariba coding" width="460" />
     </td>
-    <td width="40%" align="left">
+    <td align="left">
       <h1>Hi, I'm Fariba Shahsavan 👋</h1>
       <h3>Front-End Developer</h3>
       <img
@@ -14,12 +14,12 @@
         Building clean, responsive and user-friendly interfaces for the web.
       </p>
       <p>
-        <a href="https://github.com/faribacss">
-          <img
-            src="https://komarev.com/ghpvc/?username=faribacss&label=Profile%20Views&color=blueviolet&style=flat-square"
-            alt="Profile views"
-          />
-        </a>
+        <img
+          src="https://komarev.com/ghpvc/?username=faribacss&label=Profile%20Views&color=blueviolet&style=flat-square"
+          alt="Profile views"
+        />
+      </p>
+      <p>
         <a href="https://github.com/faribacss?tab=followers">
           <img
             src="https://img.shields.io/github/followers/faribacss?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0D76A8"
@@ -32,9 +32,6 @@
             alt="GitHub stars"
           />
         </a>
-      </p>
-      <p>
-        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nextjs" />
       </p>
     </td>
   </tr>
