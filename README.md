@@ -1,7 +1,7 @@
 <!-- HEADER: image left, info right -->
 <table>
   <tr>
-      <img src="./assets/wallpaper.jpg" alt="Fariba coding" width="100٪" />
+      <img src="./assets/wallpaper.jpg" alt="Fariba coding" width="850px" />
       # I'm Fariba Shahsavan  
       **Front-End Developer**
       Building clean, responsive and user-friendly interfaces for the web.  
