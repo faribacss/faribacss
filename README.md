@@ -23,9 +23,12 @@ Currently improving my skills in **HTML**, **CSS**, **Bootstrap**, **JavaScript*
 ---
 
 ## Tech Stack
-- **Languages:** HTML, CSS, JavaScript  
-- **Libraries / Frameworks:** Bootstrap, Tailwind, React, Next.js  
-- **Tools:** Git, GitHub, VSCode  
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,figma,bootstrap,git,react,nextjs" />
+</p>
+ 
 
 ---
 
