@@ -1,50 +1,76 @@
-## Hi there 👋
-<div align="center" style="background-color:#050508; color:#ffffff; padding: 32px 16px; border-radius: 12px;">
+<!-- HEADER -->
+<div align="center">
 
-  <h1 style="margin-bottom: 0.3em;">Fariba Shahsavan</h1>
-  <p style="font-size: 1.1rem; margin-top: 0;">Front-End Developer</p>
+  ## Hi there 👋
 
-  <p style="margin-top: 1.2em;">
-    <strong>HTML · CSS · JavaScript · Bootstrap · Git · React · Next.js</strong>
-  </p>
+  # I'm Fariba Shahsavan  
+  **Front-End Developer**
+
+  <br />
+
+  <!-- Badges -->
+  <a href="https://github.com/faribacss">
+    <img src="https://komarev.com/ghpvc/?username=faribacss&style=flat-square&color=blueviolet" alt="profile views" />
+  </a>
+  <a href="https://github.com/faribacss?tab=followers">
+    <img src="https://img.shields.io/github/followers/faribacss?style=flat-square&color=0D76A8" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/faribacss?tab=repositories">
+    <img src="https://img.shields.io/github/stars/faribacss?style=flat-square&color=ffd700" alt="GitHub stars" />
+  </a>
 
 </div>
 
 ---
 
-## About Me
-I’m a front-end developer
-Currently improving my skills in **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **React, and learning Next.js**.
+## 🧾 About Me
 
-- Interested in: UI development and clean code
-- Goal: Becoming a professional Front-End Developer  
-- Email: **f.shahsavanpour@gmail.com**
+I’m a front-end developer focused on building **clean, accessible and responsive** user interfaces.  
+Currently improving my skills in **HTML**, **CSS**, **Bootstrap**, **JavaScript**, and learning **React / Next.js**.
+
+- 🎯 Interested in: UI development, clean code, and good UX  
+- 📌 Goal: Becoming a professional Front-End Developer  
+- ✉️ Email: **f.shahsavanpour@gmail.com**
 
 ---
 
-## Tech Stack
+## 🌐 Connect with Me
+
+<p align="left">
+  <!-- لینک‌ها را با آدرس‌های واقعی خودت عوض کن -->
+  <a href="mailto:f.shahsavanpour@gmail.com">
+    <img src="https://img.shields.io/badge/Email-f.shahsavanpour%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/fariba-shahsavanpour-691142244/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,figma,bootstrap,git,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nextjs,git,github,vscode,figma" />
 </p>
- 
 
 ---
 
-## GitHub Status
+## 📊 GitHub Status
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=faribacss&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faribacss&theme=github-dark-blue" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faribacss&show_icons=true&theme=github_dark" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faribacss&theme=github-dark-blue" height="150" />
 </p>
 
 ---
 
-## Selected Projects
-- **login and sign in page** – Personal website (React, MUI)  
+## 📌 Selected Projects
+
+- **Login & Sign-in Page** – React + MUI UI  
   https://github.com/faribacss/login-and-sign-in-page  
 
-- **Restaurantly Bootstrap Template** – Responsive template using Bootstrap  
+- **Restaurantly Bootstrap Template** – Responsive Bootstrap template  
   https://github.com/faribacss/Restaurantly-Bootstrap-Template-Demo  
 
 - **Nice School App** – School-themed front-end project  
