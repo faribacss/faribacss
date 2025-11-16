@@ -1,7 +1,7 @@
 <!-- HEADER: image left, info right -->
 <table>
   <tr>
-    <td width="35%" align="center">
+    <td width="100%" align="center">
       <img src="./assets/wallpaper.jpg" alt="Fariba coding" width="220" />
     </td>
     <td align="left">
