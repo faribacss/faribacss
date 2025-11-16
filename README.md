@@ -1,25 +1,39 @@
-<!-- HEADER -->
-<div align="center">
-
-  ## Hi there 👋
-
-  # I'm Fariba Shahsavan  
-  **Front-End Developer**
-
-  <br />
-
-  <!-- Badges -->
-  <a href="https://github.com/faribacss">
-    <img src="https://komarev.com/ghpvc/?username=faribacss&style=flat-square&color=blueviolet" alt="profile views" />
-  </a>
-  <a href="https://github.com/faribacss?tab=followers">
-    <img src="https://img.shields.io/github/followers/faribacss?style=flat-square&color=0D76A8" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/faribacss?tab=repositories">
-    <img src="https://img.shields.io/github/stars/faribacss?style=flat-square&color=ffd700" alt="GitHub stars" />
-  </a>
-
-</div>
+<!-- HEADER: image left, info right -->
+<table>
+  <tr>
+    <td width="35%" align="center">
+      <img src="./assets/cat-dev.png" alt="Fariba coding" width="220" />
+    </td>
+    <td align="left">
+      # I'm Fariba Shahsavan  
+      **Front-End Developer**
+      Building clean, responsive and user-friendly interfaces for the web.  
+      <p>
+        <!-- Email -->
+        <a href="mailto:f.shahsavanpour@gmail.com" title="Email: f.shahsavanpour@gmail.com">
+          <img src="https://skillicons.dev/icons?i=gmail" width="32" />
+        </a>
+        &nbsp;
+        <!-- LinkedIn -->
+        <a href="https://www.linkedin.com/in/fariba-shahsavanpour-691142244/" target="_blank" title="LinkedIn Profile">
+          <img src="https://skillicons.dev/icons?i=linkedin" width="32" />
+        </a>
+      </p>
+      <!-- Badges -->
+      <p>
+        <a href="https://github.com/faribacss">
+          <img src="https://komarev.com/ghpvc/?username=faribacss&style=flat-square&color=blueviolet" alt="profile views" />
+        </a>
+        <a href="https://github.com/faribacss?tab=followers">
+          <img src="https://img.shields.io/github/followers/faribacss?style=flat-square&color=0D76A8" alt="GitHub followers" />
+        </a>
+        <a href="https://github.com/faribacss?tab=repositories">
+          <img src="https://img.shields.io/github/stars/faribacss?style=flat-square&color=ffd700" alt="GitHub stars" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -28,27 +42,25 @@
 I’m a front-end developer focused on building **clean, accessible and responsive** user interfaces.  
 Currently improving my skills in **HTML**, **CSS**, **Bootstrap**, **JavaScript**, and learning **React / Next.js**.
 
-- 🎯 Interested in: UI development, clean code, and good UX  
-- 📌 Goal: Becoming a professional Front-End Developer  
-- ✉️ Email: **f.shahsavanpour@gmail.com**
-
+- 🎯 **Interested in:** UI development, clean code, and good UX  
+- 🚀 **Goal:** Becoming a professional Front-End Developer  
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <!-- لینک‌ها را با آدرس‌های واقعی خودت عوض کن -->
-  <a href="mailto:f.shahsavanpour@gmail.com">
-    <img src="https://img.shields.io/badge/Email-f.shahsavanpour%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:f.shahsavanpour@gmail.com" title="Email: f.shahsavanpour@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="32" />
   </a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/fariba-shahsavanpour-691142244/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/fariba-shahsavanpour-691142244/" target="_blank" title="LinkedIn Profile">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="32" />
   </a>
 </p>
 
 ---
 
-## 🧰 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nextjs,git,github,vscode,figma" />
