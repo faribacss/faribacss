@@ -11,9 +11,6 @@
         alt="Typing SVG"
       />
       <p>
-        Building clean, responsive and user-friendly interfaces for the web.
-      </p>
-      <p>
         <img
           src="https://komarev.com/ghpvc/?username=faribacss&label=Profile%20Views&color=blueviolet&style=flat-square"
           alt="Profile views"
@@ -39,20 +36,24 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      ## 🧾 About Me
-      I’m a front-end developer focused on building **clean, accessible and responsive** user interfaces.  
-      Currently improving my skills in **HTML**, **CSS**, **Bootstrap**, **JavaScript**, and learning **React / Next.js**.
-      - 🎯 **Interested in:** UI development, clean code, and good UX  
-      - 🚀 **Goal:** Becoming a professional Front-End Developer  
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="assets/fire2.png" alt="Fariba coding" width="320" />
-    </td>
-  </tr>
-</table>
+---
+
+<div align="left">
+
+  <img src="assets/fire2.png" alt="Fariba coding" width="220" align="right" />
+
+  ## 🧾 About Me
+
+  I'm a front-end developer focused on Building clean, responsive and user-friendly interfaces for the web.
+
+  🔹 **Currently working with:** HTML, CSS, Bootstrap, JavaScript  
+  🔹 **Currently learning:** React, Next.js  
+
+  - 🎯 **Interested in:** UI development, clean code, and good UX  
+  - 🚀 **Goal:** Becoming a professional Front-End Developer  
+  - 💡 **Values:** simplicity, readable code, and thoughtful design  
+
+</div>
 
 
 ## 🌐 Connect with Me
