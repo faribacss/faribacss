@@ -13,10 +13,10 @@
 ---
 
 ## About Me
-I’m a front-end developer focused on building clean, accessible and responsive user interfaces.  
+I’m a front-end developer
 Currently improving my skills in **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **React, and learning Next.js**.
 
-- Interested in: UI development and clean code  
+- Interested in: UI development and clean code
 - Goal: Becoming a professional Front-End Developer  
 - Email: **f.shahsavanpour@gmail.com**
 
