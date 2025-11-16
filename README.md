@@ -39,14 +39,18 @@
 
 ---
 
-## 🧾 About Me
-
-I’m a front-end developer focused on building **clean, accessible and responsive** user interfaces.  
-Currently improving my skills in **HTML**, **CSS**, **Bootstrap**, **JavaScript**, and learning **React / Next.js**.
-
-- 🎯 **Interested in:** UI development, clean code, and good UX  
-- 🚀 **Goal:** Becoming a professional Front-End Developer  
----
+<tr>
+  ## 🧾 About Me
+  <td>
+    <img src="assets/fire2.png" alt="Fariba coding" width="360">
+  </td>
+  <td>
+    I’m a front-end developer focused on building **clean, accessible and responsive** user interfaces.  
+    Currently improving my skills in **HTML**, **CSS**, **Bootstrap**, **JavaScript**, and learning **React / Next.js**.
+    - 🎯 **Interested in:** UI development, clean code, and good UX  
+    - 🚀 **Goal:** Becoming a professional Front-End Developer  
+  </td>
+</tr>
 
 ## 🌐 Connect with Me
 
