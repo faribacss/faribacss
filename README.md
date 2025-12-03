@@ -91,7 +91,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nextjs,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs,git,github,vscode,figma" />
 </p>
 
 ---
