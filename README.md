@@ -114,7 +114,7 @@
 - **Login & Sign-in Page** – React + MUI  
   https://github.com/faribacss/login-and-sign-in-page
 
-- **BlogPage** – React, js, ts + MUI 
+- **BlogPage** – React, js, ts + MUI  
   https://github.com/faribacss/BlogPage
 
 - **Restaurantly Bootstrap Template** – Responsive Bootstrap  
