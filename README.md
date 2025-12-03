@@ -99,9 +99,16 @@
 ## 📊 GitHub Status
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=faribacss&show_icons=true&theme=github_dark" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faribacss&theme=github-dark-blue" height="150" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=faribacss&show_icons=true&theme=github_dark"
+    height="150"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=faribacss&theme=github-dark-blue"
+    height="150"
+  />
 </p>
+
 
 
 
