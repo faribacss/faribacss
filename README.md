@@ -112,10 +112,10 @@
 ## 📌 Selected Projects
 
 - **Login & Sign-in Page** – React + MUI  
-  https://github.com/faribacss/login-and-sign-in-page  
+  https://github.com/faribacss/login-and-sign-in-page
+
+- **BlogPage** – React, js, ts + MUI 
+  https://github.com/faribacss/BlogPage
 
 - **Restaurantly Bootstrap Template** – Responsive Bootstrap  
   https://github.com/faribacss/Restaurantly-Bootstrap-Template-Demo  
-
-- **Nice School App** – School-themed front-end project  
-  https://github.com/faribacss/Nice-School
