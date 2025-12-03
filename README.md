@@ -98,17 +98,9 @@
 
 ## 📊 GitHub Overview
 
-<table>
+<table align="center">
   <tr>
-    <td align="center">
-      <strong>Stats</strong><br/>
-      <img
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=faribacss&show_icons=true&theme=github_dark"
-        alt="GitHub Stats"
-        height="150"
-      />
-    </td>
-    <td align="center">
+    <td>
       <strong>Streak</strong><br/>
       <img
         src="https://streak-stats.demolab.com/?user=faribacss&theme=github-dark-blue"
