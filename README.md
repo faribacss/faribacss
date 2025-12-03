@@ -96,18 +96,32 @@
 
 ---
 
-## 📊 GitHub Status
+## 📊 GitHub Overview
 
-<p align="left">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=faribacss&show_icons=true&theme=github_dark"
-    height="150"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=faribacss&theme=github-dark-blue"
-    height="150"
-  />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <strong>Stats</strong><br/>
+      <img
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=faribacss&show_icons=true&theme=github_dark"
+        alt="GitHub Stats"
+        height="150"
+      />
+    </td>
+    <td align="center">
+      <strong>Streak</strong><br/>
+      <img
+        src="https://streak-stats.demolab.com/?user=faribacss&theme=github-dark-blue"
+        alt="GitHub Streak"
+        height="150"
+      />
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 
 
