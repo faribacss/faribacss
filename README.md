@@ -127,5 +127,5 @@
 - **Dashboard** – React, MUI, RESTful API Integration  
   https://github.com/faribacss/Dashboard
 
-- **BlogPage** – React, js, ts + MUI  
+- **BlogPage** – React, js, ts + Tailwind CSS  
   https://github.com/faribacss/BlogPage
