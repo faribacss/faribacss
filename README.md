@@ -124,11 +124,8 @@
 
 ## 📌 Selected Projects
 
-- **Login & Sign-in Page** – React + MUI  
-  https://github.com/faribacss/login-and-sign-in-page
+- **Dashboard** – React, MUI, RESTful API Integration  
+  https://github.com/faribacss/Dashboard
 
 - **BlogPage** – React, js, ts + MUI  
   https://github.com/faribacss/BlogPage
-
-- **Restaurantly Bootstrap Template** – Responsive Bootstrap  
-  https://github.com/faribacss/Restaurantly-Bootstrap-Template-Demo  
